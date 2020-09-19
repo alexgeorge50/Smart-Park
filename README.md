@@ -31,7 +31,7 @@ HTML, CSS, Javascript, Jquery
 PHP
 
 ### IDE
-MS Visio, Arduino IDE
+NetBeans, Arduino IDE
 
 ## Project Structure
 * admin_dashboard contains the files for the admin dashboard and the simulation of the parking slot. 
