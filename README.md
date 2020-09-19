@@ -32,3 +32,8 @@ PHP
 
 ### IDE
 MS Visio, Arduino IDE
+
+## Project Structure
+* admin_dashboard contains the files for the admin dashboard and the simulation of the parking slot. 
+* .ino file contains the code for the arduino IDE
+* .sql contains the dump for the database.
